@@ -1,0 +1,6 @@
+framework module Pods_OneChat {
+  umbrella header "Pods-OneChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
